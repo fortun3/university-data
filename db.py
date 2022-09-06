@@ -1,10 +1,10 @@
 import mysql.connector as connector
 
-#db credentials
-HOST = "localhost"
-USER = "root"
+#db credentials--  fill out HERE
+HOST = ""
+USER = ""
 PASSWORD = ""
-DATABASE = "universities"
+DATABASE = ""
 
 #connect database.. 
 db = connector.connect(
